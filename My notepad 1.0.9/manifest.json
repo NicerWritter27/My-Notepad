@@ -1,0 +1,26 @@
+{
+   "browser_action": {
+      "default_icon": {
+         "128": "images/extension-icons/128.png",
+         "64": "images/extension-icons/64.png",
+         "48": "images/extension-icons/48.png",
+         "32": "images/extension-icons/32.png",
+         "16": "images/extension-icons/16.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "description": "your notepad with more features than a simple notepad with backup",
+   "icons": {
+      "128": "images/extension-icons/128.png",
+      "64": "images/extension-icons/64.png",
+      "48": "images/extension-icons/48.png",
+      "32": "images/extension-icons/32.png",
+      "16": "images/extension-icons/16.png"
+   },
+   "manifest_version": 2,
+   "name": "My notepad+",
+   "offline_enabled": true,
+   "permissions": [ "storage", "unlimitedStorage" ],
+   "short_name": "My notepad",
+   "version": "1.0.9"
+}
