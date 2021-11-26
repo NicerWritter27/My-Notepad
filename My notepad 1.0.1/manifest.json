@@ -1,0 +1,24 @@
+{
+   "browser_action": {
+      "default_icon": {
+         "128": "images/extension-icons/icon-notes-lg.png",
+         "32": "images/extension-icons/icon-notes-sm.png",
+         "48": "images/extension-icons/icon-notes-md.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "description": "your notepad with more features than a simple notepad with backup",
+   "icons": {
+      "128": "images/extension-icons/icon-notes-lg.png",
+      "32": "images/extension-icons/icon-notes-sm.png",
+      "48": "images/extension-icons/icon-notes-md.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqOwBaxf6wDJpqh3Zpc/Ke0dH2hyZYqmQ7vgPoSM79hKdefzdbfSc2VFjOMNZ42raJ8hVZEe2f98OwXK3oNkkYmb+StR+KEGXuq2nnJjVR+N48vfu3S8QIwy5DGU1Y4oi3WhjSecHjebpKRRd9ALQEajJNW9hYOIRRCcrowMZPjt/gjhklXhp6oOnrsndsRJQlXZAhjJKqMUdkRJrcHZ/4gz8ltVDM5a97s8QgtpVRl6Mvr7SffHM2gJscPKVT13AMhNGFHlNzjzZ2mLByZEr38eYNYKRfbqXp+HZaONCQ2YXIUj5bAMJDryWyt9FyQ+PMgZabNdEEWGblMPeGETrfQIDAQAB",
+   "manifest_version": 2,
+   "name": "My notepad+",
+   "offline_enabled": true,
+   "permissions": [ "storage", "unlimitedStorage" ],
+   "short_name": "My notepad",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}
