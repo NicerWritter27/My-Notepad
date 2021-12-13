@@ -1,0 +1,24 @@
+{
+  "name": "Notepad+",
+  "description": "your notepad with more features than a simple notepad with backup",
+  "version": "1.1.4.005",
+  "manifest_version": 3,
+  "permissions": ["storage", "unlimitedStorage", "activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/extension-icons/16.png",
+      "32": "/images/extension-icons/32.png",
+      "48": "/images/extension-icons/48.png",
+      "64": "/images/extension-icons/64.png",
+      "128": "/images/extension-icons16/128.png"
+    }
+  },
+  "icons": {
+    "16": "/images/extension-icons/16.png",
+    "32": "/images/extension-icons/32.png",
+    "48": "/images/extension-icons/48.png",
+    "64": "/images/extension-icons/64.png",
+    "128": "/images/extension-icons/128.png"
+  }
+}
