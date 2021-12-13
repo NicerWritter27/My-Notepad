@@ -1,0 +1,8 @@
+1.1.5
+[Pending] The extension icon changed
+
+1.1.4.005
+[Changed] The help page content is now an accordination (like FAQ pages) to minimize scroll
+
+1.1.4
+[Changed] Extension icon is now bigger
